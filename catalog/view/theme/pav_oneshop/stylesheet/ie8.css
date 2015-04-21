@@ -1,0 +1,6 @@
+.product-block .image .pav-colorbox {
+    background: #D45757;
+}
+.product-block .image .pav-colorbox:hover {
+    background: #323232;
+}

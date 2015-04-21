@@ -1,0 +1,125 @@
+---------- Date: 2014-11-01 02:09:28 ~ IP : 186.90.255.4 ----------
+REQUEST URI : /zebra/index.php?route=common/home
+MOD DETAILS:
+   modFile   : C:\wamp\www\zebra\vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+
+File Name    : catalog/language/*/common/header.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-11-01 18:54:23 ~ IP : 200.47.182.253 ----------
+REQUEST URI : /zebra/
+MOD DETAILS:
+   modFile   : C:\wamp\www\zebra\vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+
+File Name    : catalog/language/*/common/header.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-11-01 18:54:53 ~ IP : 200.47.182.253 ----------
+REQUEST URI : /zebra/index.php?_route_=index.html.var
+MOD DETAILS:
+   modFile   : C:\wamp\www\zebra\vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+
+File Name    : catalog/language/*/common/header.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-11-01 18:54:59 ~ IP : 200.47.182.253 ----------
+REQUEST URI : /zebra/index.php?route=common/home
+MOD DETAILS:
+   modFile   : C:\wamp\www\zebra\vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+
+File Name    : catalog/language/*/common/header.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-11-01 18:55:04 ~ IP : 200.47.182.253 ----------
+REQUEST URI : /zebra/index.php?_route_=index.html.var
+MOD DETAILS:
+   modFile   : C:\wamp\www\zebra\vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+
+File Name    : catalog/language/*/common/header.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-11-01 19:08:34 ~ IP : 200.47.182.253 ----------
+REQUEST URI : /zebra/index.php?_route_=ribbons-consumibles
+MOD DETAILS:
+   modFile   : C:\wamp\www\zebra\vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+
+File Name    : catalog/language/*/common/header.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+MOD DETAILS:
+   modFile   : C:\wamp\www\zebra\vqmod/xml/pavdeals.xml
+   id        : Pavo Deals
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : PavoThemes
+
+File Name    : catalog/view/theme/*/template/product/category.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <?php if ($product['rating']) { ?>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-11-01 19:08:40 ~ IP : 200.47.182.253 ----------
+REQUEST URI : /zebra/index.php?_route_=ribbons-consumibles/ribbons-impresoras-tarjetas
+MOD DETAILS:
+   modFile   : C:\wamp\www\zebra\vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+
+File Name    : catalog/language/*/common/header.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+MOD DETAILS:
+   modFile   : C:\wamp\www\zebra\vqmod/xml/pavdeals.xml
+   id        : Pavo Deals
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : PavoThemes
+
+File Name    : catalog/view/theme/*/template/product/category.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <?php if ($product['rating']) { ?>
+
+----------------------------------------------------------------------
+
+

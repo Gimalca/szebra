@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<themeeditor>
+	<version value="1.4">
+	<ccc available="true" />
+	<guest_checkout available="true" />
+	<one_page_checkout available="true" />
+	<store_locator available="true" />
+	</version>
+	<author>leotheme</author>
+<name>Live Theme Editor</name>	
+<selectors>
+		<items>
+			<header>Body Content</header>
+			<match>body</match>
+
+			<item>
+				<type>image</type>
+				<label>Background Image</label>
+				<selector>body #page</selector>
+				<attrs>background-image</attrs>
+			</item> 
+
+			<item>
+				<type>text</type>
+				<label>Page Content</label>
+				<selector>body #page</selector>
+				<attrs>background-color</attrs>
+			</item>
+		 	<item>
+				<type>fontsize</type>
+				<label>Font-Size</label>
+				<selector>body #page</selector>
+				<attrs>font-size</attrs>
+			</item> 
+			<item>
+				<type>text</type>
+				<label>Box Heading</label>
+				<selector>.box-heading</selector>
+				<attrs>color</attrs>
+			</item> 
+			<item>
+				<type>text</type>
+				<label>Color Text</label>
+				<selector>body #page,.product-block .price,.pavblog-latest .blog-item .blog-body .group-blog</selector>
+				<attrs>color</attrs>
+			</item> 
+			<item>
+				<type>text</type>
+				<label>Link Color</label>
+				<selector>.product-block .product-meta .name a,.pavblog-latest .blog-item .blog-title a</selector>
+				<attrs>color</attrs>
+			</item>
+			<item>
+				<type>text</type>
+				<label>Color Price</label>
+				<selector>.product-block .price</selector>
+				<attrs>color</attrs>
+			</item>
+			<item>
+				<type>text</type>
+				<label>Color Price Old</label>
+				<selector>.product-block .price-old</selector>
+				<attrs>color</attrs>
+			</item>   
+			<item>
+				<type>text</type>
+				<label>Border Color</label>
+				<selector>.product-block .product-meta,.product-block .rating img,.product-block:hover, .product-block .action .action-inner .wishlist, .product-block .action .action-inner .compare, .pav-carousel .img-responsive</selector>
+				<attrs>border-color</attrs>
+			</item>
+			<item>
+				<type>text</type>
+				<label>Icon Color</label>
+				<selector>.product-block .action .action-inner .wishlist a, .product-block .action .action-inner .compare a,.product-block .cart a span,.productdeals .box-product .product-meta .cart span</selector>
+				<attrs>color</attrs>
+			</item>
+			<item>
+				<type>text</type>
+				<label>Bg input Color</label>
+				<selector>.product-block .cart a span,.product-block .image .pav-colorbox,.productdeals .box-product .product-meta .cart</selector>
+				<attrs>background-color</attrs>
+			</item>
+	</items>
+ 
+	<items>
+		<header>TopBar</header>
+		<match>topbar</match>
+		<item>
+			<type>text</type>
+			<label>Background Color</label>
+			<selector>#header</selector>
+			<attrs>background-color</attrs>
+		</item> 
+	 	<item>
+			<type>text</type>
+			<label>Color Link</label>
+			<selector>#pav-mainnav .navbar .navbar-nav li a</selector>
+			<attrs>color</attrs>
+		</item> 
+		<item>
+			<type>text</type>
+			<label>Icon Color</label>
+			<selector>.topbar .quickaccess-toggle,.topbar #cart .heading .fa,#search .button-search</selector>
+			<attrs>color</attrs>
+		</item> 
+
+		<item>
+			<type>text</type>
+			<label>Bg input Color</label>
+			<selector>#header #cart .heading,#search input</selector>
+			<attrs>background-color</attrs>
+		</item> 
+
+		<item>
+			<type>text</type>
+			<label>Border color</label>
+			<selector>#pav-mainnav .navbar .navbar-nav li,.topbar .quickaccess-toggle</selector>
+			<attrs>border-color</attrs>
+		</item>		
+	</items>
+
+	<items>
+		<header>SubMenu</header>
+		<match>pav-mainnav</match>
+		<item>
+			<type>text</type>
+			<label>Background Color</label>
+			<selector>#pav-mainnav .navbar .navbar-nav .dropdown-menu,.topbar .inner-toggle</selector>
+			<attrs>background-color</attrs>
+		</item> 
+		<item>
+			<type>text</type>
+			<label>Text Color</label>
+			<selector>.pav-menu-video,.product-block .price,.topbar .inner-toggle .text-label</selector>
+			<attrs>color</attrs>
+		</item>
+	 	<item>
+			<type>text</type>
+			<label>Color Link Submenu</label>
+			<selector>#pav-mainnav .navbar .navbar-nav .dropdown-menu li a,.topbar .quick-access .inner-toggle ul li a,.product-block .product-meta .name a,.product-block .cart a span</selector>
+			<attrs>color</attrs>
+		</item> 
+		<item>
+			<type>text</type>
+			<label>Border Color</label>
+			<selector>.product-block .product-meta,.topbar .inner-toggle .dropdown-menu li,.topbar .inner-toggle .dropdown-menu li:first-child</selector>
+			<attrs>border-color</attrs>
+		</item>
+		<item>
+			<type>text</type>
+			<label>Bg input Color</label>
+			<selector>.product-block .cart a span</selector>
+			<attrs>background-color</attrs>
+		</item>
+	</items>
+	<items>
+		<header>Deals</header>
+		<match>deals</match>
+		<item>
+			<type>text</type>
+			<label>Background Color</label>
+			<selector>.productdeals .box-product .product-meta</selector>
+			<attrs>background-color</attrs>
+		</item>	
+		<item>
+			<type>text</type>
+			<label>Color Text</label>
+			<selector>body #page, .productdeals .item-countdown ul li div</selector>
+			<attrs>color</attrs>
+		</item> 
+		<item>
+			<type>text</type>
+			<label>Link Color</label>
+			<selector>.productdeals .name a</selector>
+			<attrs>color</attrs>
+		</item> 
+		<item>
+			<type>text</type>
+			<label>Bg sale</label>
+			<selector>.productdeals .product-label-special</selector>
+			<attrs>background-color</attrs>
+		</item>
+		<item>
+			<type>text</type>
+			<label>Text Sale</label>
+			<selector>.productdeals .product-label-special</selector>
+			<attrs>color</attrs>
+		</item> 
+
+		<item>
+			<type>text</type>
+			<label>Icon Color</label>
+			<selector>.productdeals .box-product .product-meta .cart span</selector>
+			<attrs>color</attrs>
+		</item>
+		<item>
+			<type>text</type>
+			<label>Bg input Color</label>
+			<selector>.productdeals .box-product .product-meta .cart</selector>
+			<attrs>background-color</attrs>
+		</item>
+	</items>
+	
+	<items>
+		<header>Footer</header>
+		<match>footer</match>
+		<item>
+			<type>text</type>
+			<label>Wrapper Background</label>
+			<selector>#footer</selector>
+			<attrs>background-color</attrs>
+		</item>
+		<item>
+			<type>image</type>
+			<label>Background Image</label>
+			<selector>#footer</selector>
+			<attrs>background-image</attrs>
+		</item> 
+
+		<item>
+			<type>text</type>
+			<label>Color Text</label>
+			<selector>#footer .box .box-heading,.container-inner,.service-block h3,.service-block p,.newsletter_block .new-heading,.powered</selector>
+			<attrs>color</attrs>
+		</item> 
+
+	 	<item>
+			<type>text</type>
+			<label>Color Link</label>
+			<selector>#footer ul.list li a,.powered a</selector>
+			<attrs>color</attrs>
+		</item> 
+
+		<item>
+			<type>text</type>
+			<label>Bg Color Input</label>
+			<selector>input.inputNew</selector>
+			<attrs>background-color</attrs>
+		</item>
+
+		<item>
+			<type>text</type>
+			<label>Color Icon</label>
+			<selector>.social li .fa,.service-block .fa,.button_mini</selector>
+			<attrs>color</attrs>
+		</item> 
+
+		<item>
+			<type>text</type>
+			<label>Border Color</label>
+			<selector>.footer-center .col-lg-3,#footer .container-inner,.powered,#footer .container-inner .column:last-child,.social</selector>
+			<attrs>border-color</attrs>
+		</item>	
+	</items>
+</selectors>
+
+<elements>
+	<items>
+		<header>Products</header>
+		<match>product</match>
+		<item>
+			<type>text</type>
+			<label>Product Name</label>
+			<selector>.product-block .product-meta .name a, .product-filter .product-compare a,.category-list ul li a,.product-block .image .pav-colorbox</selector>
+			<attrs>color</attrs>
+		</item>
+		<item>
+			<type>text</type>
+			<label>Color Text</label>
+			<selector>body #page,.product-filter, .product-block .product-meta .description,.box-heading,#content h1, .heading-title</selector>
+			<attrs>color</attrs>
+		</item> 
+		<item>
+			<type>text</type>
+			<label>Color Price New</label>
+			<selector>.product-block .price</selector>
+			<attrs>color</attrs>
+		</item>  		
+ 		<item>
+			<type>text</type>
+			<label>Color Price Old</label>
+			<selector>.product-block .price-old</selector>
+			<attrs>color</attrs>
+		</item> 
+		<item>
+			<type>text</type>
+			<label>Bg Add To Cart</label>
+			<selector>.product-block .cart a span</selector>
+			<attrs>background-color</attrs>
+		</item>
+		<item>
+			<type>text</type>
+			<label>Input BgColor</label>
+			<selector>.product-info .image-additional .carousel-control,.product-info .product-extra .wishlist, .product-info .product-extra .compare</selector>
+			<attrs>background-color</attrs>
+		</item>
+		<item>
+			<type>text</type>
+			<label>Color Add To Cart</label>
+			<selector>.product-block .cart a span</selector>
+			<attrs>color</attrs>
+		</item>   
+		<item>
+			<type>text</type>
+			<label>Icon Color</label>
+			<selector>.product-block .action .action-inner .wishlist a, .product-block .action .action-inner .compare a,.carousel-control</selector>
+			<attrs>color</attrs>
+		</item>
+		<item>
+			<type>text</type>
+			<label>Bg Quick View</label>
+			<selector>.product-block .image .pav-colorbox</selector>
+			<attrs>background-color</attrs>
+		</item>
+		<item>
+			<type>text</type>
+			<label>Bg Zoom</label>
+			<selector>.product-block .image .product-zoom i</selector>
+			<attrs>color</attrs>
+		</item>
+		<item>
+			<type>text</type>
+			<label>Border Product</label>
+			<selector>.product-filter .display a > span,.product-filter .product-compare a,.breadcrumb,.pagination,.product-block .product-meta,.product-block .action .action-inner .wishlist, .product-block .action .action-inner .compare,#content h1, .heading-title,.product-filter .select-style,.product-filter,.product-info,.producttabs .nav-tabs,.producttabs</selector>
+			<attrs>border-color</attrs>
+		</item>
+	</items>
+	
+	<items>
+		<header>Default Modules Sidebar</header>
+		<match>modulesidebar</match>
+		<item>
+			<type>text</type>
+			<label>Bg Heading Color</label>
+			<selector>.sidebar .box .box-heading,.htabs,.carousel-controls .carousel-control,.sidebar .box.pav-custom .box-heading</selector>
+			<attrs>background-color</attrs>
+		</item>
+		<item>
+			<type>text</type>
+			<label>Bg content Color</label>
+			<selector>.sidebar .box .box-content,.box-shop,.sidebar .box.pav-custom .box-content</selector>
+			<attrs>background-color</attrs>
+		</item>  
+	 	<item>
+			<type>text</type>
+			<label>Color Text</label>
+			<selector>.box .box-content,.sidebar .box .box-heading,.box-shop,.support</selector>
+			<attrs>color</attrs>
+		</item> 
+		<item>
+			<type>text</type>
+			<label>Color Link</label>
+			<selector>.box .box-content a</selector>
+			<attrs>color</attrs>
+		</item>
+		<item>
+			<type>text</type>
+			<label>Color Link Hover</label>
+			<selector>.box .box-content a:hover</selector>
+			<attrs>color</attrs>
+		</item>
+		<item>
+			<type>text</type>
+			<label>Border Sidebar</label>
+			<selector>.sidebar .box .box-content,.sidebar .product-block,.sidebar .box.special .box-heading,.sidebar .box.pav-custom .box-heading,.box-shop .item-location</selector>
+			<attrs>border-color</attrs>
+		</item>
+		<item>
+			<type>text</type>
+			<label>Label Bg</label>
+			<selector>.badge</selector>
+			<attrs>background-color</attrs>
+		</item>
+	</items>
+</elements>
+</themeeditor>

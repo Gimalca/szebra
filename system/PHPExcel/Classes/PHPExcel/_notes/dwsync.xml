@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Autoloader.php" server="gimalca.com" local="130382678480000000" remote="130601202000000000" Dst="0" />
+<file name="CachedObjectStorageFactory.php" server="gimalca.com" local="130382678480000000" remote="130601202000000000" Dst="0" />
+<file name="Calculation.php" server="gimalca.com" local="130382678480000000" remote="130601202000000000" Dst="0" />
+<file name="Cell.php" server="gimalca.com" local="130382678480000000" remote="130601202000000000" Dst="0" />
+<file name="Chart.php" server="gimalca.com" local="130382678480000000" remote="130601202000000000" Dst="0" />
+<file name="Comment.php" server="gimalca.com" local="130382678480000000" remote="130601202000000000" Dst="0" />
+<file name="DocumentProperties.php" server="gimalca.com" local="130382678480000000" remote="130601202000000000" Dst="0" />
+<file name="DocumentSecurity.php" server="gimalca.com" local="130382678480000000" remote="130601202000000000" Dst="0" />
+<file name="Exception.php" server="gimalca.com" local="130382678480000000" remote="130601202000000000" Dst="0" />
+<file name="HashTable.php" server="gimalca.com" local="130382678480000000" remote="130601202000000000" Dst="0" />
+<file name="IComparable.php" server="gimalca.com" local="130382678480000000" remote="130601202000000000" Dst="0" />
+<file name="IOFactory.php" server="gimalca.com" local="130382678480000000" remote="130601202000000000" Dst="0" />
+<file name="NamedRange.php" server="gimalca.com" local="130382678480000000" remote="130601202600000000" Dst="0" />
+<file name="ReferenceHelper.php" server="gimalca.com" local="130382678480000000" remote="130601202600000000" Dst="0" />
+<file name="RichText.php" server="gimalca.com" local="130382678480000000" remote="130601202600000000" Dst="0" />
+<file name="Settings.php" server="gimalca.com" local="130535457560000000" remote="130601202600000000" Dst="0" />
+<file name="Settings.php.original" server="gimalca.com" local="130535455980000000" remote="130601202600000000" Dst="0" />
+<file name="Style.php" server="gimalca.com" local="130382678480000000" remote="130601202600000000" Dst="0" />
+<file name="WorksheetIterator.php" server="gimalca.com" local="130382678480000000" remote="130601203200000000" Dst="0" />
+<file name="Worksheet.php" server="gimalca.com" local="130382678480000000" remote="130601203200000000" Dst="0" />
+</dwsync>

@@ -1,0 +1,35 @@
+@media only screen and (max-width: 1200px) {
+  .topbar #cart .heading {
+    margin-left: -85px;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .header-wrap .menu {
+    left: inherit;
+    right: -195px;
+  }
+  .header-wrap #logo-theme {
+    padding-right: 80px;
+  }
+  .header-wrap #logo {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: 0;
+    margin-right: 80px;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .product-info .image {
+    float: none !important;
+  }
+  .product-list .product-block .group-item {
+    float: none;
+  }
+  .product-list .product-block .cart {
+    float: none;
+  }
+  .product-list .product-block .action .action-inner .wishlist,
+  .product-list .product-block .action .action-inner .compare {
+    float: left !important;
+  }
+}

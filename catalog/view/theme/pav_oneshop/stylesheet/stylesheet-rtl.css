@@ -1,0 +1,242 @@
+.offcanvas-menu .button-close-menu {
+  right: inherit;
+  left: 20px;
+}
+#pav-mainnav .navbar .navbar-nav > li {
+  float: right;
+  border-right: 1px solid #393939;
+  border-left: none;
+}
+#header #pav-mainnav .megamenu .menu-icon {
+  background-position: right center !important;
+  padding-right: 30px;
+  padding-left: 0;
+}
+#pav-mainnav .navbar .navbar-nav .dropdown-menu {
+  border-right: none;
+  border-left: 3px solid #eaeaea;
+}
+#header .header-wrap #logo {
+  padding-right: 20px;
+  padding-left: 0px;
+}
+.header-wrap #logo-theme {
+  padding-right: 35px;
+  padding-left: 10px;
+}
+#search input {
+  padding-left: 0;
+  padding-right: 15px;
+}
+.topbar .wrap-topbar {
+  right: inherit;
+  left: 0;
+}
+.topbar .inner-toggle {
+  right: inherit;
+  left: 0;
+  border-right: none;
+  border-left: 3px solid #eaeaea;
+}
+.topbar .quickaccess-toggle,
+.topbar .search .groupe-btn {
+  border-right: 1px solid #393939;
+  border-left: none;
+}
+.topbar .quick-access .inner-toggle ul li a {
+  float: right;
+}
+.topbar .quick-access .inner-toggle ul li a .fa {
+  padding-left: 8px;
+  padding-right: 0;
+}
+.topbar #cart .heading {
+  margin-right: 0;
+  margin-left: -90px;
+}
+.topbar #cart .heading a span {
+  padding-right: 0;
+  padding-left: 10px;
+}
+.topbar #cart:hover .heading {
+  margin-left: 0;
+}
+.topbar #cart .content {
+  right: inherit;
+  left: 0;
+}
+.topbar #cart .content .arrow-up-back,
+.topbar #cart .content .arrow-up {
+  display: none;
+}
+ul.links li {
+  margin-right: 0;
+}
+.product-block .cart a span .fa {
+  padding-right: 0;
+  padding-left: 5px;
+}
+#productdeals.productdeals .item-countdown ul li {
+  float: right;
+  margin-right: 0;
+  margin-left: 8px;
+}
+#footer .box .box-heading {
+  text-align: right;
+}
+.service-block .fa {
+  float: right;
+  margin-right: 0;
+  margin-left: 10px;
+}
+.fabox {
+  float: right;
+  margin-right: 0;
+  margin-left: 8px;
+}
+.fabox.button:hover {
+  background: none;
+}
+.social li {
+  float: right;
+}
+.payment li {
+  float: right;
+}
+.support .fa {
+  float: right;
+  margin-right: 0;
+  margin-left: 10px;
+}
+.box-shop .shop-title .fa {
+  padding-right: 0;
+  padding-left: 5px;
+}
+.footer-center .col-lg-3 {
+  border-right: 1px solid #393939;
+  border-left: none;
+}
+#footer .container-inner .column:last-child {
+  border-right: 1px solid #393939;
+  border-left: 0;
+}
+#blog-carousel img {
+  margin-right: 0;
+  margin-left: 30px;
+}
+.product-info .product-extra {
+  margin-right: 0;
+  margin-left: 20px;
+}
+.product-info .image {
+  float: right;
+}
+.product-info .image-additional {
+  float: left;
+}
+.product-info .quantity-adder span {
+  border-left: 1px solid #ccc;
+  border-right: none;
+}
+.product-info .share {
+  float: right;
+}
+.sidebar .box .box-heading {
+  text-align: right;
+  padding-left: 0;
+  padding-right: 25px;
+}
+.sidebar .subcart {
+  right: inherit;
+  left: 7px;
+}
+.sidebar .product-block .image {
+  float: right;
+  margin-left: 12px;
+  margin-right: 10px;
+}
+.sidebar .product-block .rating {
+  text-align: right;
+}
+.sidebar .product-meta {
+  text-align: right;
+}
+.producttabs .nav-tabs li {
+  border-left: 1px solid #E1E1E1;
+  border-right: none;
+  float: right;
+}
+.pav-category .head a {
+  float: left !important;
+}
+.buttons .right {
+  float: left;
+}
+.contact-content .contact-info .fa {
+  margin-right: 0;
+  margin-left: 10px;
+}
+.blog-meta > span {
+  float: right !important;
+  padding-right: 0 !important;
+  padding-left: 20px;
+}
+.blog-meta > span i {
+  margin-right: 0;
+  margin-left: 5px;
+}
+.radio label,
+.checkbox label {
+  display: inline-block;
+}
+.product-list .product-block .group-item {
+  float: right;
+}
+.product-list .product-block .product-meta {
+  text-align: right;
+}
+.product-list .product-block .rating {
+  text-align: right;
+}
+.product-list .product-block .cart {
+  float: right;
+}
+.product-list .product-block .cart span {
+  margin-right: 0;
+  margin-left: 10px;
+}
+.product-list .product-block .action .action-inner .wishlist,
+.product-list .product-block .action .action-inner .compare {
+  float: right !important;
+}
+.product-list .product-block .action .action-inner .compare {
+  margin-left: 0;
+  margin-right: 10px;
+}
+.product-list .product-block .action .action-inner span {
+  padding-left: 0;
+  padding-right: 5px;
+}
+.pavblog-latest .blog-item .blog-body .group-blog .comment {
+  float: left;
+}
+.breadcrumb li:first-child {
+  background-position: right center;
+}
+.breadcrumb li:first-child a {
+  padding-left: 0;
+  padding-right: 20px;
+}
+.offcanvas-menu .widget-product-list .image {
+  float: right;
+}
+.offcanvas-menu .widget-product-list .price-old {
+  float: right !important;
+  padding-left: 5px;
+}
+.zoomWindow {
+  left: -400px !important;
+}
+.zoomLens {
+  float: left !important;
+}

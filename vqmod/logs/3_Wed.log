@@ -1,0 +1,120 @@
+---------- Date: 2015-01-07 14:44:25 ~ IP : 190.37.11.223 ----------
+REQUEST URI : /zebra/
+MOD DETAILS:
+   modFile   : C:\wamp\www\zebra\vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+
+File Name    : catalog/language/*/common/header.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-01-07 14:46:03 ~ IP : 190.37.11.223 ----------
+REQUEST URI : /zebra/index.php?route=checkout/cart
+MOD DETAILS:
+   modFile   : C:\wamp\www\zebra\vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+
+File Name    : catalog/language/*/common/header.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-01-07 16:41:53 ~ IP : 201.210.99.10 ----------
+REQUEST URI : /zebra/
+MOD DETAILS:
+   modFile   : C:\wamp\www\zebra\vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+
+File Name    : catalog/language/*/common/header.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-01-07 16:53:41 ~ IP : 201.210.99.10 ----------
+REQUEST URI : /zebra/index.php?route=product/search
+MOD DETAILS:
+   modFile   : C:\wamp\www\zebra\vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+
+File Name    : catalog/language/*/common/header.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-01-07 16:53:47 ~ IP : 201.210.99.10 ----------
+REQUEST URI : /zebra/index.php?route=product/search&amp;search=gk40t
+MOD DETAILS:
+   modFile   : C:\wamp\www\zebra\vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+
+File Name    : catalog/language/*/common/header.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-01-07 16:53:54 ~ IP : 201.210.99.10 ----------
+REQUEST URI : /zebra/index.php?route=product/search&amp;search=gk432t
+MOD DETAILS:
+   modFile   : C:\wamp\www\zebra\vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+
+File Name    : catalog/language/*/common/header.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-01-07 16:54:00 ~ IP : 201.210.99.10 ----------
+REQUEST URI : /zebra/index.php?route=product/search&amp;search=gk420t
+MOD DETAILS:
+   modFile   : C:\wamp\www\zebra\vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+
+File Name    : catalog/language/*/common/header.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-01-07 16:54:20 ~ IP : 201.210.99.10 ----------
+REQUEST URI : /zebra/index.php?_route_=Impresora-Zebra-gk420t&amp;search=gk420t
+MOD DETAILS:
+   modFile   : C:\wamp\www\zebra\vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+
+File Name    : catalog/language/*/common/header.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+

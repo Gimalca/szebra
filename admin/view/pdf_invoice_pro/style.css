@@ -1,0 +1,68 @@
+/* iToggle */
+label.ilabel{display:block;font-size:12px;padding-bottom:/*1*/0px;cursor:pointer}
+label.itoggle,label.itoggle span{display:block;width:93px;height:27px;margin-bottom:20px;background:url(img/itoggle.png) left bottom no-repeat;cursor:pointer;text-indent:-5000px}
+label.itoggle.iToff{background-position:right bottom}
+label.itoggle span{background-position:left top;margin:0}
+input.iT_checkbox{position:absolute;top:-9999px;left:-9999px}
+
+/* Main style */
+input[type=text],select{border-radius:5px; background:#F5EFF7; border:1px solid #ccc; padding:3px; height:25px}
+input[type=text]{height:18px}
+option{padding-right:15px;}
+.box, .box td{font-size: 13px !important; line-height: 15px !important;font-family: "PT Sans","PT Sans Narrow", sans-serif !important;}
+.box > .heading h1{color:#D51717;}
+.box > .heading h1 span{color:#444;}
+.box > .heading img{width:20px}
+.form.about td{padding:30px 10px}
+.vtabs a,.vtabs span{border-radius: 7px 0 0 7px; outline:0}
+.htabs a{border-radius: 5px 20px 0 0; outline:0; color:#333}
+.htabs i{float:left;position:relative; right:5px;padding-right:0px; width:16px;height:16px}
+.htabs .tab1 i{background:url('img/tab1.png') top no-repeat;}
+.htabs .tab2 i{background:url('img/tab2.png') top no-repeat;}
+.htabs .tab3 i{background:url('img/tab3.png') top no-repeat;}
+.htabs .tab4 i{background:url('img/tab4.png') top no-repeat;}
+.htabs .tab5 i{background:url('img/tab5.png') top no-repeat;}
+.htabs .tab6 i{background:url('img/tab6.png') top no-repeat;}
+.htabs .tababout i{background:url('img/about.png') top no-repeat;}
+.htabs a.selected i{background-position:bottom;}
+.switchContent{display:none}
+.switchBtn{cursor:pointer}
+.customer_groups .switchContent > div{display:inline-block;width:200px; margin-bottom:5px;}
+.customer_groups .switchContent > div > span{margin-bottom:7px; display:inline-block;}
+.customer_groups h4{margin-bottom:5px;}
+.customer_groups h4:first-child{margin-top:0;}
+#stores{float:right; background:#F3F3F3; position:relative; bottom:10px; left:10px; padding:5px 10px 5px 15px; border:1px solid #ccc; border-radius: 0 0 0 15px; border-top:0; border-right:0;}
+#stores select{margin-left:10px;}
+#template img, #sliptemplate img{width:300px; border: 1px solid #eee; cursor:zoom-in;}
+#template img.full, #sliptemplate img.full{width:auto; cursor:zoom-out;}
+.colors > div{width:150px; float:left;}
+.colors > div > span{display:block; padding-bottom:7px;}
+
+a.button, .list a.button{
+	transition: background 200ms;
+	border:0px solid #888;
+	font-weight:normal;
+	background: #2e7091;
+	border-radius:6px;
+	text-shadow:0 0 2px #333;
+	box-shadow:1px 1px 2px #333;
+	font-size:16px;
+	padding: 3px 20px 6px;
+
+	border-radius: 5px;
+	border-bottom: 1px solid rgba(255,255,255,0.4);
+	box-shadow :0 -1px 1px rgba(0,0,0,0.2)inset, 0 1px 2px rgba(0,0,0,0.8)inset;
+	color:#fff;
+	text-shadow : 0px -1px 0px rgba(0,0,0,0.8);
+		
+	background-size : 30px 30px;
+	background-repeat:repeat-x;
+	background-position :0;
+	background-image : -moz-linear-gradient( 90deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%, rgba(255,255,255,0.1) 50%, rgba(255,255,255,0.3) 100% );
+	background-image : -o-linear-gradient(90deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%, rgba(255,255,255,0.1) 50%, rgba(255,255,255,0.3) 100%);
+	background-image : -webkit-linear-gradient(90deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%, rgba(255,255,255,0.1) 50%, rgba(255,255,255,0.3) 100%);
+
+	background-color: #555;
+}
+a:last-child.button:hover{background-color: #CE3D35; transition: background 200ms;}
+a:first-child.button:hover{background-color: rgba(74,108,155,1); transition: background 200ms;}

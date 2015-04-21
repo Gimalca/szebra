@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modification>
+	<id>Pavo Description for category</id>
+	<version>1.0.0</version>
+	<vqmver>2.3.0</vqmver>
+	<author>PavoThemes</author>
+	<file name="catalog/controller/product/category.php">
+		<operation error="abort">
+			<search position="replace"><![CDATA[
+				'description' => utf8_substr(strip_tags(html_entity_decode($result['description'], ENT_QUOTES, 'UTF-8')), 0, 100) . '..',
+			]]></search>
+			<add><![CDATA[
+				'description' => utf8_substr(strip_tags(html_entity_decode($result['description'], ENT_QUOTES, 'UTF-8')), 0, 99999999) . '..',
+			]]></add>
+		</operation>
+	</file>
+</modification>

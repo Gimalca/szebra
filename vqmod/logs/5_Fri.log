@@ -1,0 +1,40 @@
+---------- Date: 2015-01-09 00:50:47 ~ IP : 200.47.182.253 ----------
+REQUEST URI : /zebra/
+MOD DETAILS:
+   modFile   : C:\wamp\www\zebra\vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+
+File Name    : catalog/language/*/common/header.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-01-09 00:51:18 ~ IP : 200.47.182.253 ----------
+REQUEST URI : /zebra/index.php?_route_=software
+MOD DETAILS:
+   modFile   : C:\wamp\www\zebra\vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+
+File Name    : catalog/language/*/common/header.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+MOD DETAILS:
+   modFile   : C:\wamp\www\zebra\vqmod/xml/pavdeals.xml
+   id        : Pavo Deals
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : PavoThemes
+
+File Name    : catalog/view/theme/*/template/product/category.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <?php if ($product['rating']) { ?>
+
+----------------------------------------------------------------------
+
+

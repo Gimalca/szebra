@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="amazon_checkout.tpl" server="gimalca.com" local="130470648804877249" remote="130601194200000000" Dst="0" />
+<file name="authorizenet_aim.tpl" server="gimalca.com" local="130470648804797245" remote="130601194200000000" Dst="0" />
+<file name="amazon_checkout_order.tpl" server="gimalca.com" local="130470648804727241" remote="130601194200000000" Dst="0" />
+<file name="authorizenet_sim.tpl" server="gimalca.com" local="130470648805417280" remote="130601194200000000" Dst="0" />
+<file name="bank_transfer.tpl" server="gimalca.com" local="130470648805817303" remote="130601194200000000" Dst="0" />
+<file name="cheque.tpl" server="gimalca.com" local="130470648804937253" remote="130601194200000000" Dst="0" />
+<file name="cod.tpl" server="gimalca.com" local="130470648804757242" remote="130601194200000000" Dst="0" />
+<file name="debug.log" server="gimalca.com" local="130470648804847248" remote="130601194200000000" Dst="0" />
+<file name="free_checkout.tpl" server="gimalca.com" local="130470648805747299" remote="130601194200000000" Dst="0" />
+<file name="google_checkout.tpl" server="gimalca.com" local="130470648804637236" remote="130601194200000000" Dst="0" />
+<file name="klarna_account.tpl" server="gimalca.com" local="130470648805207268" remote="130601194200000000" Dst="0" />
+<file name="klarna_invoice.tpl" server="gimalca.com" local="130470648805257271" remote="130601194200000000" Dst="0" />
+<file name="liqpay.tpl" server="gimalca.com" local="130470648804477226" remote="130601194200000000" Dst="0" />
+<file name="moneybookers.tpl" server="gimalca.com" local="130470648804987256" remote="130601194200000000" Dst="0" />
+<file name="nochex.tpl" server="gimalca.com" local="130470648804117206" remote="130601194200000000" Dst="0" />
+<file name="paymate.tpl" server="gimalca.com" local="130470648805507285" remote="130601194200000000" Dst="0" />
+<file name="paypoint.tpl" server="gimalca.com" local="130470648805647293" remote="130601194200000000" Dst="0" />
+<file name="payza.tpl" server="gimalca.com" local="130470648804067203" remote="130601194200000000" Dst="0" />
+<file name="perpetual_payments.tpl" server="gimalca.com" local="130470648805097262" remote="130601194200000000" Dst="0" />
+<file name="pp_express.tpl" server="gimalca.com" local="130470648804247213" remote="130601194200000000" Dst="0" />
+<file name="pp_express_order.tpl" server="gimalca.com" local="130470648803987198" remote="130601194200000000" Dst="0" />
+<file name="pp_express_refund.tpl" server="gimalca.com" local="130470648804357220" remote="130601194200000000" Dst="0" />
+<file name="pp_express_search.tpl" server="gimalca.com" local="130470648805047259" remote="130601194200000000" Dst="0" />
+<file name="pp_payflow_iframe.tpl" server="gimalca.com" local="130470648804677238" remote="130601194200000000" Dst="0" />
+<file name="pp_express_view.tpl" server="gimalca.com" local="130470648805147265" remote="130601194200000000" Dst="0" />
+<file name="pp_payflow_iframe_order.tpl" server="gimalca.com" local="130470648804397222" remote="130601194200000000" Dst="0" />
+<file name="pp_payflow_iframe_refund.tpl" server="gimalca.com" local="130470648805697296" remote="130601194200000000" Dst="0" />
+<file name="pp_pro.tpl" server="gimalca.com" local="130470648805467283" remote="130601194200000000" Dst="0" />
+<file name="pp_pro_iframe.tpl" server="gimalca.com" local="130470648803927195" remote="130601194200000000" Dst="0" />
+<file name="pp_pro_iframe_order.tpl" server="gimalca.com" local="130470648805787301" remote="130601194200000000" Dst="0" />
+<file name="pp_pro_iframe_refund.tpl" server="gimalca.com" local="130470648804197210" remote="130601194200000000" Dst="0" />
+<file name="pp_pro_iframe_transaction.tpl" server="gimalca.com" local="130470648805357277" remote="130601194200000000" Dst="0" />
+<file name="pp_pro_pf.tpl" server="gimalca.com" local="130470648805307274" remote="130601194200000000" Dst="0" />
+<file name="pp_pro_uk.tpl" server="gimalca.com" local="130470648804437224" remote="130601194200000000" Dst="0" />
+<file name="pp_standard.tpl" server="gimalca.com" local="130470648804517229" remote="130601194200000000" Dst="0" />
+<file name="sagepay.tpl" server="gimalca.com" local="130470648804317217" remote="130601194200000000" Dst="0" />
+<file name="sagepay_direct.tpl" server="gimalca.com" local="130470648804017200" remote="130601194200000000" Dst="0" />
+<file name="sagepay_us.tpl" server="gimalca.com" local="130470648805547288" remote="130601194200000000" Dst="0" />
+<file name="twocheckout.tpl" server="gimalca.com" local="130470648804577232" remote="130601194200000000" Dst="0" />
+<file name="web_payment_software.tpl" server="gimalca.com" local="130470648804157208" remote="130601194200000000" Dst="0" />
+<file name="worldpay.tpl" server="gimalca.com" local="130470648805597291" remote="130601194200000000" Dst="0" />
+</dwsync>

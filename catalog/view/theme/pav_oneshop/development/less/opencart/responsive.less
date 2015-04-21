@@ -1,0 +1,372 @@
+/******************************************************
+ * @package Pav Opencart Theme Framework for Opencart 1.5.x
+ * @version 1.1
+ * @author http://www.pavothemes.com
+ * @copyright	Copyright (C) Augus 2013 PavoThemes.com <@emai:pavothemes@gmail.com>.All rights reserved.
+ * @license		GNU General Public License version 2
+*******************************************************/
+/* Ipad landscape */
+@media (min-width: @screen-md) and (max-width: @screen-md-max){
+	#menu-offcanvas{
+		display: none;
+	}
+	#pav-mainnav .dropdown:hover > .dropdown-menu{
+		top: 50px;
+	}
+	#pav-mainnav .navbar .navbar-nav > li.pav-parrent .dropdown-menu {
+	    width: 125% !important;
+	}
+	#productdeals.productdeals .item-countdown ul li{
+		padding-left: 9px;
+		padding-right: 9px;
+	}
+	.product-info{
+		.quantity-adder{
+			margin-bottom: 10px;
+		}
+		.image-additional .carousel-control.right{
+			right: -10px;
+		}
+		.cart{
+			margin-bottom: 10px;
+		}
+	}
+	#header{
+		min-height: 50px;
+		.header-wrap #logo {
+		    line-height: 45px;
+		}
+		.header-wrap #logo-theme {
+		    padding-top: 8px;
+		    padding-bottom: 8px;
+		}
+	}
+	#pav-mainnav .navbar .navbar-nav > li > a{
+		line-height: 50px;
+		padding: 0 10px;
+		font-size: 11px;
+	}
+	.topbar{
+		.quickaccess-toggle{
+			line-height: 50px;
+			width: 50px;
+			font-size: @font-size-base + 2;
+		}
+		#cart .heading{
+			line-height: 50px;
+			margin-right: -82px;
+			font-size: @font-size-base - 2;
+			.fa{
+				font-size: @font-size-base + 2;
+				padding: 0 18px;
+			}
+		}
+		.quick-access .inner-toggle ul li a{
+			font-size: @font-size-base - 1;
+		}
+	}
+	#search{
+		&:hover input{
+			display: block;
+			top: 50px;
+		}
+		input{
+			height: 40px;
+		}
+	}
+	input.inputNew{
+		width: 130px;
+	}
+	.carousel-controls {
+	    left: 29%;
+	    top: -5.5%;
+	    width: 400px;
+	}
+	.pav-slideshow .tp-leftarrow.default{
+		left: 0 !important;
+	}
+	.pav-slideshow .tp-rightarrow.default{
+		right: 0!important;
+	}
+	.product-info .image-additional a{
+		margin-left: 0;
+	}
+	.product-list .product-block .action .action-inner .wishlist, 
+	.product-list .product-block .action .action-inner .compare{
+		width: 30%;
+	}
+}
+/* Ipad Portrait */
+@media (min-width: @screen-sm) and (max-width: @screen-sm-max) {
+	.navbar-inverse .navbar-toggle:hover, 
+	.navbar-inverse .navbar-toggle:focus {
+	    background-color: @red;
+	}
+	#header.hide-bar{
+		.header-wrap .menu{
+			top: 8px;
+		}
+	}
+	.header-wrap{
+		.menu{
+			left: -195px;
+		    position: relative;
+		    top: 18px;
+		}
+		#logo{
+			display: block;
+			padding-left: 0;
+			padding-right: 0;
+			margin-left: 80px;
+		}
+		#logo-theme{
+			padding-left: 80px;
+		}
+	}
+	.navbar-inverse .navbar-toggle{
+		display: block;
+		float: none;
+		width: 45px;
+		background-color: @red;
+		border-color: @red;
+	}
+	.product-info .cart{
+		margin-bottom: 10px;
+	}
+	#pav-promotion{
+		background: none;
+		.parallax-over{
+			background: #47a492;
+		}
+	}
+	#pav-mass-bottom{
+		background: none;
+		.parallax-inner{
+			background: #a757a6;
+		}
+	}
+ 	.footer-center .col-lg-3{
+ 		border-left: none;
+ 	}
+ 	#footer .container-inner .column:last-child{
+ 		border-left: none;
+ 	}
+ 	.pavblog-latest .blog-item:hover img {
+	    transform: none;
+	}
+	.carousel-controls {
+	    left: 23%;
+	    top: -6.5%;
+	    width: 400px;
+	}
+	.productdeals .carousel-controls {
+	    top: 9%;
+	}
+	.pavblog-latest .carousel-controls {
+	    top: 8%;
+	}
+	.pav-slideshow .tp-leftarrow.default{
+		left: 0 !important;
+	}
+	.pav-slideshow .tp-rightarrow.default{
+		right: 0!important;
+	}
+	.product-list .product-block .action .action-inner .wishlist, 
+	.product-list .product-block .action .action-inner .compare{
+		width: 30%;
+		a{
+			padding-left: 20px;
+			padding-right: 20px;
+		}
+	}
+	.product-list .product-block .cart span{
+		padding-left: 40px;
+		padding-right: 40px;
+	}
+ 	.zoomContainer{
+		display: none;
+	}
+}
+/* Iphone 5 landscape  */
+@media (max-width: @screen-xs-max) {
+	.navbar-inverse .navbar-toggle:hover, 
+	.navbar-inverse .navbar-toggle:focus {
+	    background-color: @red;
+	}
+	#header.hide-bar{
+		.header-wrap .menu{
+			top: 8px;
+		}
+	}
+	.header-wrap{
+		.menu{
+			left: -195px;
+		    position: relative;
+		    top: 18px;
+		}
+		#logo{
+			display: block;
+			padding-left: 0;
+			padding-right: 0;
+			margin-left: 80px;
+		}
+		#logo-theme{
+			padding-left: 80px;
+		}
+	}
+	.topbar{
+		.wrap-topbar{
+			position: static
+			;
+		}
+	}
+	.navbar-inverse .navbar-toggle{
+		display: block;
+		float: none;
+		width: 45px;
+		background-color: @red;
+		border-color: @red;
+	}
+	#pav-promotion{
+		background: none;
+		.parallax-over{
+			background: #47a492;
+		}
+	}
+	#pav-mass-bottom{
+		background: none;
+		.parallax-inner{
+			background: #a757a6;
+		}
+	}
+	.product-info{
+		border-top: 1px solid @gray-light;
+	    margin-top: 0;
+	    padding: 10px;
+		.image{
+			width: auto;
+			float: none;
+		}
+		.quantity-adder{
+			margin-bottom: 10px;
+		}
+		.cart{
+			margin-bottom: 10px;
+		}
+		.product-extra .wishlist,
+		.product-extra .compare{
+			padding-left: 15px;
+			padding-right: 15px;
+		}
+	}
+	.breadcrumb{
+		margin-left: 15px;
+		margin-right: 15px;
+	}
+	.footer-center .col-lg-3{
+ 		border-left: none;
+ 	}
+	#footer .container-inner .column{
+		padding-top: 0;
+		padding-bottom: 0;
+		&:last-child{
+			border-left: none;
+		}
+	}
+	.pav-category .blog-body{
+		margin-bottom: 15px;
+	}
+	.pavblog-latest .blog-item:hover img {
+	    transform: none;
+	}
+	#productdeals.productdeals .box-product{
+		.product-meta,.image{
+			float: none;
+			width: auto;
+		}
+	}
+	.product-list .product-block{
+		.group-item{
+			float: none;
+			width: auto;
+		}
+		.product-meta{
+			width: auto;
+		}
+		.cart{
+			float: none;
+			margin-bottom: 15px;
+			span{
+				padding-left: 0;
+				padding-right: 0;
+				text-align: center;
+				margin-right: 0;
+			}
+		}
+		.action .action-inner .wishlist,
+		.action .action-inner .compare{
+			width: 100%;
+			a{
+				display: inline-block;
+			}
+		}
+		.action .action-inner .compare{
+			margin-left: 0;
+			margin-top: 15px;
+		}
+		.action .action-inner{
+			padding: 0;
+		}
+	}
+	.zoomContainer{
+		display: none;
+	}
+	.product-block .image .product-zoom {
+		display: none;
+	}
+	.wishlist-info td,
+	.wishlist-info th,		
+	table.compare-info td, 
+	table.compare-info th,
+	table.pav-checkout-product td,
+	table.pav-checkout-product th,
+	table.pav-shop-cart td,
+	table.pav-shop-cart th{
+		border-right: 0 none;
+		display: block !important;
+		float: none !important;
+		text-align: left !important;
+		width: auto !important;
+	}
+	.wishlist-info tr td:before,
+	table.pav-shop-cart tr td:before{
+		content: attr(data-label);
+		float: left;
+		font-weight: bold;
+		text-align: left;
+		white-space: nowrap;
+		width: 50%;
+	}
+	.wishlist-info tr td,
+	table.pav-shop-cart tr td {
+		text-align:right;
+		display: block;
+		min-height: 20px;
+		border-left: none;
+		background: none;
+	}
+	.wishlist-info thead,
+	table.pav-shop-cart thead {
+		 display:  none;
+	}
+}
+
+/* Iphone 4 + 5 Portrait */ 
+@media (max-width: @screen-phone) {
+	.wrap-topbar {
+	    border-top: 1px solid #393939;
+	}
+	.zoomContainer{
+		display: none;
+	}
+}

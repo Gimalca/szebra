@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="vq2-admin_controller_common_header.php" server="gimalca.com" local="130597792598202500" remote="130601203200000000" Dst="0" />
+<file name="vq2-admin_controller_catalog_product.php" server="gimalca.com" local="130583291230468750" remote="130601203200000000" Dst="0" />
+<file name="vq2-admin_language_english_common_header.php" server="gimalca.com" local="130500097271702512" remote="130601203200000000" Dst="0" />
+<file name="vq2-admin_language_english_english.php" server="gimalca.com" local="130500097270312433" remote="130601203200000000" Dst="0" />
+<file name="vq2-admin_controller_sale_order.php" server="gimalca.com" local="130597795712108750" remote="130601203200000000" Dst="0" />
+<file name="vq2-admin_language_spanish_common_header.php" server="gimalca.com" local="130597792598515000" remote="130601203200000000" Dst="0" />
+<file name="vq2-admin_model_catalog_product.php" server="gimalca.com" local="130583066247402343" remote="130601203200000000" Dst="0" />
+<file name="vq2-admin_model_localisation_language.php" server="gimalca.com" local="130583066245996093" remote="130601203200000000" Dst="0" />
+<file name="vq2-admin_model_sale_order.php" server="gimalca.com" local="130597792731640000" remote="130601203200000000" Dst="0" />
+<file name="vq2-admin_view_template_common_header.tpl" server="gimalca.com" local="130597792599140000" remote="130601203200000000" Dst="0" />
+<file name="vq2-admin_view_template_sale_order_info.tpl" server="gimalca.com" local="130583077987636718" remote="130601203200000000" Dst="0" />
+<file name="vq2-admin_view_template_catalog_product_form.tpl" server="gimalca.com" local="130584215962031250" remote="130601203200000000" Dst="0" />
+<file name="vq2-admin_view_template_sale_order_invoice.tpl" server="gimalca.com" local="130583057502089843" remote="130601203200000000" Dst="0" />
+<file name="vq2-admin_view_template_sale_order_list.tpl" server="gimalca.com" local="130597795713202500" remote="130601203200000000" Dst="0" />
+<file name="vq2-catalog_controller_account_order.php" server="gimalca.com" local="130583066606308593" remote="130601203200000000" Dst="0" />
+<file name="vq2-catalog_controller_common_header.php" server="gimalca.com" local="130597792124608750" remote="130601203200000000" Dst="0" />
+<file name="vq2-catalog_controller_product_category.php" server="gimalca.com" local="130597797831015000" remote="130601203200000000" Dst="0" />
+<file name="vq2-catalog_controller_product_product.php" server="gimalca.com" local="130597797905858750" remote="130601203200000000" Dst="0" />
+<file name="vq2-catalog_language_english_common_header.php" server="gimalca.com" local="130597818459296250" remote="130601203200000000" Dst="0" />
+<file name="vq2-catalog_model_account_order.php" server="gimalca.com" local="130583066606464843" remote="130601203200000000" Dst="0" />
+<file name="vq2-catalog_model_catalog_product.php" server="gimalca.com" local="130597792119608750" remote="130601203200000000" Dst="0" />
+<file name="vq2-catalog_view_theme_default_template_product_product.tpl" server="gimalca.com" local="130579680259013671" remote="130601203200000000" Dst="0" />
+<file name="vq2-catalog_model_checkout_order.php" server="gimalca.com" local="130597830180546250" remote="130601203200000000" Dst="0" />
+<file name="vq2-catalog_view_theme_pav_oneshop_template_account_order_info.tpl" server="gimalca.com" local="130583070989824218" remote="130601203200000000" Dst="0" />
+<file name="vq2-catalog_view_theme_pav_oneshop_template_account_order_list.tpl" server="gimalca.com" local="130583072864511718" remote="130601203200000000" Dst="0" />
+<file name="vq2-catalog_view_theme_pav_oneshop_template_product_product.tpl" server="gimalca.com" local="130597797915077500" remote="130601203200000000" Dst="0" />
+<file name="vq2-system_engine_controller.php" server="gimalca.com" local="130597792114608750" remote="130601203200000000" Dst="0" />
+<file name="vq2-system_engine_front.php" server="gimalca.com" local="130597792114765000" remote="130601203200000000" Dst="0" />
+<file name="vq2-system_engine_loader.php" server="gimalca.com" local="130597792114921250" remote="130601203200000000" Dst="0" />
+<file name="vq2-system_library_amazon.php" server="gimalca.com" local="130470648387633384" remote="130601203200000000" Dst="0" />
+<file name="vq2-system_library_amazonus.php" server="gimalca.com" local="130470648386903343" remote="130601203200000000" Dst="0" />
+<file name="vq2-system_library_cart.php" server="gimalca.com" local="130597792118358750" remote="130601203200000000" Dst="0" />
+<file name="vq2-system_library_config.php" server="gimalca.com" local="130597792115233750" remote="130601203200000000" Dst="0" />
+<file name="vq2-system_library_db.php" server="gimalca.com" local="130597792115233750" remote="130601203200000000" Dst="0" />
+<file name="vq2-system_library_language.php" server="gimalca.com" local="130597792115546250" remote="130601203200000000" Dst="0" />
+<file name="vq2-system_library_template.php" server="gimalca.com" local="130597792116015000" remote="130601203200000000" Dst="0" />
+<file name="vq2-system_library_ebay.php" server="gimalca.com" local="130470648387303365" remote="130601203200000000" Dst="0" />
+<file name="vq2-system_startup.php" server="gimalca.com" local="130597792114452500" remote="130601203200000000" Dst="0" />
+</dwsync>

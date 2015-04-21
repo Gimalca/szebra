@@ -1,0 +1,7 @@
+[12-Jan-2015 18:27:10 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/giaco/public_html/suministroszebra/system/database/mysqli.php on line 6
+[12-Jan-2015 18:27:10 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Error: Could not make a database link (1045) Access denied for user 'root'@'localhost' (using password: NO)' in /home/giaco/public_html/suministroszebra/system/database/mysqli.php:9
+Stack trace:
+#0 /home/giaco/public_html/suministroszebra/vqmod/vqcache/vq2-system_library_db.php(13): DBMySQLi->__construct('localhost', 'root', '', 'zebra')
+#1 /home/giaco/public_html/suministroszebra/admin/index.php(41): DB->__construct('mysqli', 'localhost', 'root', '', 'zebra')
+#2 {main}
+  thrown in /home/giaco/public_html/suministroszebra/system/database/mysqli.php on line 9

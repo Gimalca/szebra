@@ -1,0 +1,56 @@
+
+/* customize for body */ 
+body #page { background-image:url(../../image/pattern/pattern3.png)} 
+body #page { background-color:#4a364a} 
+.box-heading { color:#ba73ba} 
+body #page,.product-block .price,.pavblog-latest .blog-item .blog-body .group-blog { color:#e3e3e3} 
+.product-block .product-meta .name a,.pavblog-latest .blog-item .blog-title a { color:#00ffbf} 
+.product-block .price { color:#dea6de} 
+.product-block .price-old { color:#080108} 
+.product-block .product-meta,.product-block .rating img,.product-block:hover, .product-block .action .action-inner .wishlist, .product-block .action .action-inner .compare, .pav-carousel .img-responsive { border-color:#f50af5} 
+.product-block .action .action-inner .wishlist a, .product-block .action .action-inner .compare a,.product-block .cart a span,.productdeals .box-product .product-meta .cart span { color:#5e1c5e} 
+.product-block .cart a span,.product-block .image .pav-colorbox,.productdeals .box-product .product-meta .cart { background-color:#a329a3} 
+
+/* customize for topbar */ 
+#header { background-color:#ad7dad} 
+#pav-mainnav .navbar .navbar-nav li a { color:#ffffff} 
+.topbar .quickaccess-toggle,.topbar #cart .heading .fa,#search .button-search { color:#f2e9f2} 
+#header #cart .heading,#search input { background-color:#821f82} 
+#pav-mainnav .navbar .navbar-nav li,.topbar .quickaccess-toggle { border-color:#70db29} 
+
+/* customize for pav-mainnav */ 
+#pav-mainnav .navbar .navbar-nav .dropdown-menu,.topbar .inner-toggle { background-color:#000000} 
+.pav-menu-video,.product-block .price,.topbar .inner-toggle .text-label { color:#4bf022} 
+#pav-mainnav .navbar .navbar-nav .dropdown-menu li a,.topbar .quick-access .inner-toggle ul li a,.product-block .product-meta .name a,.product-block .cart a span { color:#1e76fa} 
+.product-block .product-meta,.topbar .inner-toggle .dropdown-menu li,.topbar .inner-toggle .dropdown-menu li:first-child { border-color:#c4c4c4} 
+.product-block .cart a span { background-color:#2edbb8} 
+
+/* customize for deals */ 
+.productdeals .box-product .product-meta { background-color:#a1a1a1} 
+body #page, .productdeals .item-countdown ul li div { color:#872887} 
+.productdeals .name a { color:#08d6ff} 
+.productdeals .product-label-special { background-color:#f725f7} 
+.productdeals .product-label-special { color:#ffffff} 
+.productdeals .box-product .product-meta .cart span { color:#b8af0d} 
+.productdeals .box-product .product-meta .cart { background-color:#f5f5f5} 
+
+/* customize for footer */ 
+#footer .box .box-heading,.container-inner,.service-block h3,.service-block p,.newsletter_block .new-heading,.powered { color:#912691} 
+#footer ul.list li a,.powered a { color:#82ed00} 
+input.inputNew { background-color:#ffffff} 
+.social li .fa,.service-block .fa,.button_mini { color:#ffffff} 
+.footer-center .col-lg-3,#footer .container-inner,.powered,#footer .container-inner .column:last-child,.social { border-color:#18a3de} 
+
+/* customize for product */ 
+.product-block .product-meta .name a, .product-filter .product-compare a,.category-list ul li a,.product-block .image .pav-colorbox { color:#ffffff} 
+body #page,.product-filter, .product-block .product-meta .description,.box-heading,#content h1, .heading-title { color:#ffffff} 
+.product-block .price { color:#f009f0} 
+.product-block .price-old { color:#27f227} 
+.product-block .cart a span { background-color:#1cb7e6} 
+.product-info .image-additional .carousel-control,.product-info .product-extra .wishlist, .product-info .product-extra .compare { background-color:#f0a716} 
+.product-block .cart a span { color:#ededed} 
+.product-block .action .action-inner .wishlist a, .product-block .action .action-inner .compare a,.carousel-control { color:#ccff00} 
+.product-block .image .pav-colorbox { background-color:#1e91f5} 
+.product-filter .display a &gt; span,.product-filter .product-compare a,.breadcrumb,.pagination,.product-block .product-meta,.product-block .action .action-inner .wishlist, .product-block .action .action-inner .compare,#content h1, .heading-title,.product-filter .select-style,.product-filter,.product-info,.producttabs .nav-tabs,.producttabs { border-color:#b532b5} 
+
+/* customize for modulesidebar */ 
